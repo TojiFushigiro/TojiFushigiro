@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TojiFushigiro
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning Computer Science and enginering
-- 💞️ I’m looking to collaborate on Data Science projects?
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on Data Science/coding projects??
 
 <!---
 TojiFushigiro/TojiFushigiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
